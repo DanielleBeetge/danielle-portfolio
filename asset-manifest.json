@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DanielleBeetge/danielle-portfolio/static/css/main.d09a8507.css",
+    "main.js": "/DanielleBeetge/danielle-portfolio/static/js/main.f7d79d8f.js",
+    "static/js/787.1005d5ab.chunk.js": "/DanielleBeetge/danielle-portfolio/static/js/787.1005d5ab.chunk.js",
+    "static/media/Background3.png": "/DanielleBeetge/danielle-portfolio/static/media/Background3.12606ffc26a398e1888f.png",
+    "static/media/Portfolio_ITS_Infinity_Applications.png": "/DanielleBeetge/danielle-portfolio/static/media/Portfolio_ITS_Infinity_Applications.cfa452bc028cdc2e514e.png",
+    "static/media/Portfolio_ITS_Infinity_Asset_Scanner.png": "/DanielleBeetge/danielle-portfolio/static/media/Portfolio_ITS_Infinity_Asset_Scanner.ceb295340ace5105b597.png",
+    "static/media/Skills.png": "/DanielleBeetge/danielle-portfolio/static/media/Skills.0965c000ba19582a3b4d.png",
+    "static/media/Portfolio_ITS_Infinity_Selections.png": "/DanielleBeetge/danielle-portfolio/static/media/Portfolio_ITS_Infinity_Selections.7ca62a49010b6e831464.png",
+    "static/media/home-banner.png": "/DanielleBeetge/danielle-portfolio/static/media/home-banner.62789eaa7e9ad4d893eb.png",
+    "static/media/contact-bg.png": "/DanielleBeetge/danielle-portfolio/static/media/contact-bg.88f0f0eff577441a2f99.png",
+    "static/media/home-banner2.png": "/DanielleBeetge/danielle-portfolio/static/media/home-banner2.aee47bbeb3e4f9e19f67.png",
+    "static/media/Background2.png": "/DanielleBeetge/danielle-portfolio/static/media/Background2.aff2366ef6bcc85b504c.png",
+    "static/media/Background1.png": "/DanielleBeetge/danielle-portfolio/static/media/Background1.c6a62a6ceb7adace6ad6.png",
+    "index.html": "/DanielleBeetge/danielle-portfolio/index.html",
+    "main.d09a8507.css.map": "/DanielleBeetge/danielle-portfolio/static/css/main.d09a8507.css.map",
+    "main.f7d79d8f.js.map": "/DanielleBeetge/danielle-portfolio/static/js/main.f7d79d8f.js.map",
+    "787.1005d5ab.chunk.js.map": "/DanielleBeetge/danielle-portfolio/static/js/787.1005d5ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09a8507.css",
+    "static/js/main.f7d79d8f.js"
+  ]
+}
