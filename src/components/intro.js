@@ -7,7 +7,7 @@ export default function AppIntro() {
                         <div class="typing">
                            <h2 class="typewrite">Hi, I'm Danielle</h2>
                         </div>
-                           <h5>I am a UI/UX Product Designer based in Johannesburg</h5>
+                           <h5>I am a Product Designer based in Johannesburg</h5>
                            <br />
                            <a class="btn-main btn-main-theme" data-scroll-nav="1" href="#skills" >Let's start</a>
                     </div>
