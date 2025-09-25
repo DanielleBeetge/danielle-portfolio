@@ -14,7 +14,7 @@ export default function AppServices() { return (
                         </div>
                         <div class="feature-content">
                             <h5>Adapt IT Holdings Limited</h5>
-                            <p>UI/UX Product Designer (2022-Present)</p>
+                            <p>UI/UX Product Designer (2022-2024)</p>
                             <p>
                                 I was excited to embark on a new chapter at Adapt IT Education, where I applied my skills to enhance educational experiences through innovative design solutions. Adapt IT Education specialized in responsive
                                 solutions for educational institutions globally, utilising a robust SDLC approach to drive educational advancements.
